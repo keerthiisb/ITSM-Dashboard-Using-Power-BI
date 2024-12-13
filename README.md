@@ -51,8 +51,9 @@ Monthly Trends: A bar chart displaying the count of incidents per month, identif
 This comprehensive visualization helps in identifying trends, analyzing performance, and pinpointing areas for improvement in incident management.
 
 Screenshots:
-![Screenshot 2024-12-13 150950](https://github.com/user-attachments/assets/df5dcf0e-47bf-4e0d-8180-1c12129ee0b0)
 ![Screenshot 2024-12-13 150930](https://github.com/user-attachments/assets/da24db0e-9ae5-4894-855c-baec7f720b2d)
+![Screenshot 2024-12-13 150950](https://github.com/user-attachments/assets/df5dcf0e-47bf-4e0d-8180-1c12129ee0b0)
+
 
 
 
