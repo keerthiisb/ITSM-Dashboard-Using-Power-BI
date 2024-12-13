@@ -1,10 +1,10 @@
 # ITSM-Dashboard-Using-Power-BI
 
-Overview
+1.Overview
 
 This project provides an interactive Power BI dashboard that visualizes key metrics of IT incident management. It features an incident summary, reassignment analysis, urgency and priority filters, and monthly trends to help IT teams make data-driven decisions.
 
-Key Features
+2.Key Features
 
 Incident Summary: A comprehensive overview displaying the total number of incidents (46,606), categorized into various types such as incidents, requests for information, complaints, and requests for change.
 
@@ -16,7 +16,7 @@ Incident Status by CI Category: A table showcasing the number of closed and work
 
 Monthly Trends: A bar chart illustrating the monthly distribution of incidents, with notable peaks in January, October, and December.
 
-Objectives
+3.Objectives
 
 To identify trends and patterns in incident management.
 
@@ -24,17 +24,17 @@ To highlight areas requiring improvement or additional resources.
 
 To assist IT service teams in making data-driven decisions.
 
-Tools and Technologies
+4.Tools and Technologies
 
 Power BI: For data visualization and dashboard creation.
 
 ITSM Data Sources: Data extracted from ITSM tool.
 
-Analysis Techniques
+5.Analysis Techniques
 
 In this ITSM project, various analysis techniques are employed to provide a comprehensive overview of incident management. These include categorizing incidents into types such as incidents, requests for information, complaints, and requests for change. Reassignment analysis by Configuration Item Category (CI_Cat) helps identify which categories experience the most reassignments. The project also uses urgency and priority filters to allow detailed analysis based on these factors. Additionally, the data is visualized to show the number of incidents by month and the status of incidents within different CI categories, thus offering insights into trends and areas needing improvement.
 
-Results
+6.Results
 
 The Power BI dashboard effectively visualizes key metrics related to incident management. Highlights include:
 
